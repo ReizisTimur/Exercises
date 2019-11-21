@@ -13,3 +13,8 @@
 /untitled/
 /Whilecikl/
 .idea
+/*/build
+/*/nbproject
+/*/out
+build.xml
+InnerClasses.xml
