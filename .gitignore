@@ -18,3 +18,5 @@
 /*/out
 build.xml
 InnerClasses.xml
+/Conteiners/.gradle/
+/Containers/.gradle/
